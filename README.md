@@ -25,5 +25,7 @@ Qual é a correlação entre o número de reviews e o preço do aluguel no Airbn
 O projeto está estruturado em três arquivos principais:
 
 'Analise_exploratoria_AIRBNB_NYC.ipynb': é um arquivo gerado no Google Colab onde contém o código e as análises que foram realizadas.
+
 README.md: este arquivo que contém informações sobre o projeto e as análises realizadas;
+
 LICENSE: o arquivo de licença do projeto.
