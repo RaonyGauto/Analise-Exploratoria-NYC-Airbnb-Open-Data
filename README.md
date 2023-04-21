@@ -20,3 +20,10 @@ Qual é a média de noites mínimas para alugar um imóvel no Airbnb em Nova Yor
 Quais são os bairros mais caros para se hospedar em Nova York?
 
 Qual é a correlação entre o número de reviews e o preço do aluguel no Airbnb em Nova York?
+
+# Estrutura do Projeto
+O projeto está estruturado em três arquivos principais:
+
+'Analise_exploratoria_AIRBNB_NYC.ipynb': é um arquivo gerado no Google Colab onde contém o código e as análises que foram realizadas.
+README.md: este arquivo que contém informações sobre o projeto e as análises realizadas;
+LICENSE: o arquivo de licença do projeto.
