@@ -28,4 +28,4 @@ O projeto está estruturado em três arquivos principais:
 
 README.md: este arquivo que contém informações sobre o projeto e as análises realizadas;
 
-LICENSE: o arquivo de licença do projeto.
+LICENSE: O uso é fornecido sob a licença MIT. Consulte LICENÇA para obter todos os detalhes.
