@@ -32,3 +32,6 @@ LICENSE: O uso é fornecido sob a licença MIT. Consulte LICENÇA para obter tod
 
 # Conclusão
 A análise realizada sugere que o Airbnb em Nova York é dominado por anfitriões individuais que oferecem principalmente quartos privados ou apartamentos inteiros. O bairro mais popular em termos de reservas é o Brooklyn, seguido de perto por Manhattan. Os preços médios de aluguéis de Airbnb variam significativamente entre os bairros, sendo Manhattan o mais caro, enquanto o Bronx é o mais barato. Além disso, foi possível observar que a quantidade de avaliações está correlacionada com a quantidade de hospedagens, indicando que imóveis com maior fluxo de hospedagem têm maior chance de receber mais avaliações.
+
+# Contribuição
+Este é um projeto aberto a contribuições e sugestões. Se você tiver alguma sugestão ou correção a fazer, por favor, não hesite em enviar um pull request ou abrir uma issue.
