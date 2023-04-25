@@ -4,7 +4,7 @@ O **Airbnb** é um serviço online que conecta pessoas que desejam alugar suas c
 # Instalação
 Este projeto usa as seguintes bibliotecas Python na versão 3.9 do Python:
 
-Pandas Numpy IO Files Plotly.Express Make_subplots Plotly.graph_objects
+**Pandas Numpy Plotly.Express Make_subplots Plotly.graph_objects**
 
 Clone este repositório em sua máquina local usando $ git clone https://github.com/raonyg/Analise-Exploratoria-NYC-Airbnb-Open-Data.
 
