@@ -20,7 +20,7 @@ Shared room     | 2,18%
 
     O bairro mais popular pelo número de avaliações e ultimas avaliações é o Brooklyn.
 
-Regions       | quantity
+Regions       | Quantity
 :-----------: | :-------:
 Brooklyn      | 486.174k
 Manhattan     | 454.126k
