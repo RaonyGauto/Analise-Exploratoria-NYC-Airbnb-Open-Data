@@ -6,7 +6,7 @@ O **Airbnb** é um serviço online que conecta pessoas que desejam alugar suas c
 
 # Ferramentas
 * Linguagem de programação: [Python](https://www.python.org/)
-* IDE: Google:[Colab](https://colab.research.google.com/)
+* IDE: Google: [Colab](https://colab.research.google.com/)
 * Ferramentas da estatística 
 
 # Instalação
