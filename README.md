@@ -4,10 +4,15 @@
 # Projeto de Analise-Exploratoria-NYC-Airbnb-Open-Data
 O **Airbnb** é um serviço online que conecta pessoas que desejam alugar suas casas com viajantes em busca de acomodações. Analistas de dados usam os dados gerados pelas listagens do Airbnb para ajudar na segurança, tomadas de decisão de negócios e compreensão do comportamento dos usuários na plataforma.
 
+# Ferramentas
+* Linguagem de programação: Python
+* IDLE: Google: Colab
+* Ferramentas da estatística 
+
 # Instalação
 Este projeto usa as seguintes bibliotecas Python na versão 3.9 do Python:
 
-__Pandas, Numpy, Plotly.Express, Make_subplots, Plotly.graph_objects__
+__Pandas, Numpy, io, files, Plotly.Express, Make_subplots, Plotly.graph_objects__
 
 Clone este repositório em sua máquina local usando $ git clone https://github.com/raonyg/Analise-Exploratoria-NYC-Airbnb-Open-Data.
 
