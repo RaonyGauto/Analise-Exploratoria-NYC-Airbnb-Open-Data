@@ -1,3 +1,5 @@
+# Perguntas, respostas e soluções de negócio para empresa Airbnb NYC e anfitriões parceiros.
+
 1. Qual é o preço médio dos aluguéis de Airbnb em Nova York?
 
 Regions       |  Price
